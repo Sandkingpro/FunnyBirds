@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FunnyBirdsSurface</string>
+    <string name="action_settings">Pause</string>
+    <string name="resume">Resume</string>
+</resources>
